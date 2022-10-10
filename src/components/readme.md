@@ -1,0 +1,1 @@
+Following along with React + Tailwind CSS tutorial to create a banking splash page
